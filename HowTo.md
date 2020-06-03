@@ -1,10 +1,12 @@
-En primer lugar ya debemos tener instalado Node-Red en nuestra computadora.
+Antes de comenzar a utilizar esta caracteristica de Node-Red debemos hacer varias cosas.
+
+En primer lugar debemos tener instalado Node-Red en nuestra computadora.
 
 Para mas informacion se puede ver el siguiente link:
 
 https://nodered.org/docs/getting-started/windows
 
-Luego tenemos que tener instalado tambien git:
+Luego tenemos que tener instalado tambien Git:
 
 https://git-scm.com/downloads
 
@@ -12,12 +14,7 @@ Una vez instalado podemos ver que haciendo click derecho en el escritorio tenemo
 
 ![Captura 1](https://github.com/ispezia/How-To-Nodered-Projects/blob/master/Imagenes/Anotaci%C3%B3n%202020-06-02%20205830.jpg)
 
-Dentro de la terminal chequeamos que haya queda bien instalado Git:
-```
-git version
-```
-
-Luego debemos configurar nuestro usuario y correo electronico (en el entorno global):
+Lanzamos una terminal para configurar nuestro usuario y correo electronico (en el entorno global):
 ```
 git config --global user.name "usuario"
 git config --global user.email "correo@dominio.com"
