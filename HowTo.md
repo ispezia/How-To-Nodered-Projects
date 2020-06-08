@@ -51,10 +51,14 @@ Lo siguiente es linkear en los ajustes del proyecto el repositorio remoto que pr
 
 ![Captura 3](https://github.com/ispezia/How-To-Nodered-Projects/blob/master/Imagenes/Anotaci%C3%B3n%202020-06-01%20222207.jpg)
 
-Una vez hecho esto ya estamos en condiciones de hacer nuestros primeros commits y push desde la interfaz de Node-Red
+Una vez hecho esto, desde la pestaña "history" ya estamos en condiciones de hacer nuestros primeros commits agregando los archivos que querramos:
 
 ![Captura 4](https://github.com/ispezia/How-To-Nodered-Projects/blob/master/Imagenes/Anotaci%C3%B3n%202020-06-02%20214634.jpg)
- 
+
+Por último en el menu "Commit history" tenemos que crear el branch remoto para poder hacer el push desde la interfaz de Node-Red:
+
+![Captura 5](https://github.com/ispezia/How-To-Nodered-Projects/blob/master/Imagenes/Anotaci%C3%B3n%202020-06-08%20190421.jpg)
+
 Para ver en detalle como es la operacion de esto ultimo les recomiendo este video:
 
 https://www.youtube.com/watch?v=Bto2rz7bY3g
