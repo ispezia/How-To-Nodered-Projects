@@ -6,6 +6,10 @@ Para mas informacion se puede ver el siguiente link:
 
 https://nodered.org/docs/getting-started/windows
 
+Habilitar la utilizacion de projectos:
+
+https://nodered.org/docs/user-guide/projects/
+
 Luego tenemos que tener instalado tambien Git:
 
 https://git-scm.com/downloads
